@@ -1,0 +1,6 @@
+{
+  "name": "Minecraft Java Edition Web",
+  "description": "A performant voxel sandbox inspired by Minecraft Java Edition featuring procedural chunk generation, 3D animated mobs, delta-normalized physics, manual Nether portal construction, synthesized sound effects, and an authentic Java HUD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
